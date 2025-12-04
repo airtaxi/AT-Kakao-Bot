@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="KakaoBotAT.Commons/KakaoBotAT.Commons.csproj" />
+  <Project Path="KakaoBotAT.MobileClient/KakaoBotAT.MobileClient.csproj" />
+  <Project Path="KakaoBotAT.Server/KakaoBotAT.Server.csproj" />
+</Solution>
