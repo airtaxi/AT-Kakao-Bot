@@ -18,7 +18,7 @@
 		<Nullable>enable</Nullable>
 
 		<!-- Display name -->
-		<ApplicationTitle>KakaoBotAT.MobileClient</ApplicationTitle>
+		<ApplicationTitle>AT-Kakao-Bot</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.airtaxi.kakaobot</ApplicationId>
